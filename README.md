@@ -26,24 +26,28 @@
 <img src="http://i.imgur.com/s6sbgb6.png">
 
 - Thông tin gói Discover
+
 <img src="http://i.imgur.com/dBCOeFA.png">
 
 ###Gói Offer
 <img src="http://i.imgur.com/de12KIB.png">
 
 - Thông tin gói Offer
+
 <img src="http://i.imgur.com/9MC5elM.png">
 
 ###Gói Request
 <img src="http://i.imgur.com/XAwAMcj.png">
 
 - Thông tin gói Request
+
 <img src="http://i.imgur.com/I4PlvRt.png">
 
 ###Gói ACK
 <img src="http://i.imgur.com/UrztOBK.png">
 
 - Thông tin gói ACK
+
 <img src="http://i.imgur.com/1ECUWbI.png">
 
 ## Kết luận:
